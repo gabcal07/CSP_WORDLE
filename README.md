@@ -1,4 +1,4 @@
-# 🧠 NeuroLogic: Constraint-Augmented LLM Solver
+# 🧠 AI Augmented Wordle Constraint Programming Solver
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Vue.js](https://img.shields.io/badge/Vue.js-3.0+-green.svg)](https://vuejs.org)
